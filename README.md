@@ -1,2 +1,3 @@
-# cuda_vs_cimd
-Pet project for learning CUDA and CIMD
+# cuda_vs_simd
+
+Pet project for learning CUDA and SIMD
